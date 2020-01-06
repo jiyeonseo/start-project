@@ -18,4 +18,4 @@
 
 **related issue** : #issue-number
 
-> PR 끝난 뒤, Squash & merge 로 하며, 커밋 메세지는 "변경 사항(#pr-number)" 로 합니다.
+> PR 끝난 뒤, Squash & merge 로 하며, 커밋 메세지는 "[#pr-number]변경 사항"
