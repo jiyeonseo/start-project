@@ -1,8 +1,8 @@
 ---
 name: 새로운 Feature
-about: '새로운 기능용 이슈'
+about: 새로운 기능용 이슈
 title: "[feature]"
-labels: 'feature'
+labels: ''
 assignees: ''
 
 ---
