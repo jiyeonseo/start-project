@@ -14,6 +14,8 @@
 - develop 
 - beta 
 - master 
+## 프로젝트성 Branch 규칙
+- project/{project-name} (ex. project/projectA)로 관련 리포들 모두 동일 브랜치
 
 ## Pull Request 규칙 
 - **1 Issue** + **1 PR** + **1+ Reviewer** 
